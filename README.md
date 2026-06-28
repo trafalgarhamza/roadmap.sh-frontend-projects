@@ -16,8 +16,8 @@ This repository contains all my practice projects and progress during this stage
 Each folder in this repository represents a different project or exercise from the roadmap.  
 Now, since the projects have to be in this README file, then I am going to paste them one by one:
 
-1: https://roadmap.sh/projects/single-page-cv
-2: https://roadmap.sh/projects/basic-html-website
+1, https://roadmap.sh/projects/single-page-cv  
+2, https://roadmap.sh/projects/basic-html-website
 
 ## Status
 
